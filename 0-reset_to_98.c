@@ -1,10 +1,1 @@
-#include "main.h"
-/**
- * reset_to_98 - updates the value of the variable
- * of pointer to 98
- * @n: pointer to the variable to update
- */
-void reset_to_98(int *n)
-{
-	*n = 98;
-}
+[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[A[A[A[A[C[C[A[A
